@@ -13,7 +13,7 @@ class View(ft.UserControl):
         self._controller = None
         # graphical elements
         self._title = None
-        self._ddyear = None
+        self._ddyear= None
         self._ddcolor = None
         self.btn_graph = None
         self.txtOut = None
