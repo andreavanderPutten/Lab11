@@ -86,6 +86,6 @@ class Model :
 
     def get_num_of_edges(self):
         return self.grafo.number_of_edges()
-
+#a
 
 
